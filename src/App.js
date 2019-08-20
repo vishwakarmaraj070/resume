@@ -144,17 +144,8 @@ export default class App extends Component {
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">MongoDB</span></li>
                             </ul>
                           </div>
-
                         </article>
-
-
                       </div>
-
-
-
-
-
-
                     </div>
                   </section>
                 </div>
@@ -166,24 +157,23 @@ export default class App extends Component {
                         <h4 className="resume-skills-cat font-weight-bold">Frontend</h4>
                         <ul className="list-unstyled mb-4">
                           <li className="mb-2">
-                            <div className="resume-skill-name">Angular</div>
+                            <div className="resume-skill-name">React</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "98%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                           </li>
                           <li className="mb-2">
-                            <div className="resume-skill-name">React</div>
+                            <div className="resume-skill-name">JavaScript</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "94%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                           </li>
                           <li className="mb-2">
-                            <div className="resume-skill-name">JavaScript</div>
+                            <div className="resume-skill-name">Jquery</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "96%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                           </li>
-
                           <li className="mb-2">
                             <div className="resume-skill-name">Node.js</div>
                             <div className="progress resume-progress">
@@ -191,7 +181,13 @@ export default class App extends Component {
                             </div>
                           </li>
                           <li className="mb-2">
-                            <div className="resume-skill-name">HTML/CSS/SASS/LESS</div>
+                            <div className="resume-skill-name">HTML/CSS/SASS</div>
+                            <div className="progress resume-progress">
+                              <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "95%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+                            </div>
+                          </li>
+                          <li className="mb-2">
+                            <div className="resume-skill-name">SVG</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "95%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -203,25 +199,25 @@ export default class App extends Component {
                         <h4 className="resume-skills-cat font-weight-bold">Backend</h4>
                         <ul className="list-unstyled">
                           <li className="mb-2">
-                            <div className="resume-skill-name">Python/Django</div>
+                            <div className="resume-skill-name">Node.js</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "90%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                           </li>
                           <li className="mb-2">
-                            <div className="resume-skill-name">Ruby/Rails</div>
+                            <div className="resume-skill-name">Express.js</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "92%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                           </li>
                           <li className="mb-2">
-                            <div className="resume-skill-name">PHP</div>
+                            <div className="resume-skill-name">MongoDB</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "86%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
                           </li>
                           <li className="mb-2">
-                            <div className="resume-skill-name">WordPress/Shopify</div>
+                            <div className="resume-skill-name">Create/Fetch API</div>
                             <div className="progress resume-progress">
                               <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{ width: "82%" }} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
                             </div>
@@ -235,12 +231,11 @@ export default class App extends Component {
                           <li className="list-inline-item"><span className="badge badge-light">DevOps</span></li>
                           <li className="list-inline-item"><span className="badge badge-light">Code Review</span></li>
                           <li className="list-inline-item"><span className="badge badge-light">Git</span></li>
-                          <li className="list-inline-item"><span className="badge badge-light">Unit Testing</span></li>
-                          <li className="list-inline-item"><span className="badge badge-light">Wireframing</span></li>
-                          <li className="list-inline-item"><span className="badge badge-light">Sketch</span></li>
-                          <li className="list-inline-item"><span className="badge badge-light">Balsamiq</span></li>
-                          <li className="list-inline-item"><span className="badge badge-light">WordPress</span></li>
-                          <li className="list-inline-item"><span className="badge badge-light">Shopify</span></li>
+                          <li className="list-inline-item"><span className="badge badge-light">Github</span></li>
+                          <li className="list-inline-item"><span className="badge badge-light">Codepen</span></li>
+                          <li className="list-inline-item"><span className="badge badge-light">GSPA</span></li>
+                          <li className="list-inline-item"><span className="badge badge-light">MDB</span></li>
+                          <li className="list-inline-item"><span className="badge badge-light">Bootstarp</span></li>
                         </ul>
                       </div>
                     </div>
@@ -250,14 +245,14 @@ export default class App extends Component {
                     <div className="resume-section-content">
                       <ul className="list-unstyled">
                         <li className="mb-2">
-                          <div className="resume-degree font-weight-bold">MSc in Computer Science</div>
-                          <div className="resume-degree-org">University College London</div>
-                          <div className="resume-degree-time">2010 - 2011</div>
+                          <div className="resume-degree font-weight-bold">MCA Distance Education</div>
+                          <div className="resume-degree-org">Sikkim Manipal Universicy</div>
+                          <div className="resume-degree-time">2018 - to</div>
                         </li>
                         <li>
-                          <div className="resume-degree font-weight-bold">BSc Maths and Physics</div>
-                          <div className="resume-degree-org">Imperial College London</div>
-                          <div className="resume-degree-time">2007 - 2010</div>
+                          <div className="resume-degree font-weight-bold">BCA Computer Application</div>
+                          <div className="resume-degree-org">Garware College of Commerce Pune </div>
+                          <div className="resume-degree-time">2013 - 2016</div>
                         </li>
                       </ul>
                     </div>
@@ -283,19 +278,19 @@ export default class App extends Component {
                     <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Language</h2>
                     <div className="resume-section-content">
                       <ul className="list-unstyled resume-lang-list">
-                        <li className="mb-2"><span className="resume-lang-name font-weight-bold">English</span> <small className="text-muted font-weight-normal">(Native)</small></li>
-                        <li className="mb-2 align-middle"><span className="resume-lang-name font-weight-bold">French</span> <small className="text-muted font-weight-normal">(Professional)</small></li>
-                        <li><span className="resume-lang-name font-weight-bold">Spanish</span> <small className="text-muted font-weight-normal">(Professional)</small></li>
+                        <li className="mb-2"><span className="resume-lang-name font-weight-bold">English</span> <small className="text-muted font-weight-normal">(Professional)</small></li>
+                        <li className="mb-2 align-middle"><span className="resume-lang-name font-weight-bold">Hindi</span> <small className="text-muted font-weight-normal">(Professional)</small></li>
+                        <li><span className="resume-lang-name font-weight-bold">Bhojpuri</span> <small className="text-muted font-weight-normal">(Native)</small></li>
                       </ul>
                     </div>
                   </section>
                   <section className="resume-section interests-section mb-5">
-                    <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2>
+                    <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Interests</h2> 
                     <div className="resume-section-content">
                       <ul className="list-unstyled">
-                        <li className="mb-1">Climbing</li>
-                        <li className="mb-1">Snowboarding</li>
-                        <li className="mb-1">Cooking</li>
+                        <li className="mb-1">Listening Songs</li>
+                        <li className="mb-1">UI / UX Design</li>
+                        <li className="mb-1">Cooding</li>
                       </ul>
                     </div>
                   </section>
