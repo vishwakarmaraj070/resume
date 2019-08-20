@@ -168,32 +168,32 @@ export default class App extends Component {
 								        <li className="mb-2">
 								            <div className="resume-skill-name">Angular</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 98%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "98%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li className="mb-2">
 								            <div className="resume-skill-name">React</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 94%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "94%"}}aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li className="mb-2">
 								            <div className="resume-skill-name">JavaScript</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "96%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        
 								        <li className="mb-2">
 								            <div className="resume-skill-name">Node.js</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "92%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li className="mb-2">
 								            <div className="resume-skill-name">HTML/CSS/SASS/LESS</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 96%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "95%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 							        </ul>
@@ -205,25 +205,25 @@ export default class App extends Component {
 								        <li className="mb-2">
 								            <div className="resume-skill-name">Python/Django</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 95%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "90%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li className="mb-2">
 								            <div className="resume-skill-name">Ruby/Rails</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 92%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "92%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li className="mb-2">
 								            <div className="resume-skill-name">PHP</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 86%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "86%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 								        <li className="mb-2">
 								            <div className="resume-skill-name">WordPress/Shopify</div>
 									        <div className="progress resume-progress">
-											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style="width: 82%" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
+											    <div className="progress-bar theme-progress-bar-dark" role="progressbar" style={{width: "82%"}} aria-valuenow="25" aria-valuemin="0" aria-valuemax="100"></div>
 											</div>
 								        </li>
 							        </ul>
