@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-https://raj-resume.netlify.com/
+demo link https://raj-resume.netlify.com/
 
 ## Available Scripts
 
