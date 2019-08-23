@@ -11,3 +11,23 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.resume-header .picture{
+  width: 16.2%;
+  padding: 8px;
+  margin: 3px 4% 0 1%!important;
+  box-shadow: 5px 3px 10px rgba(0, 0, 0, 0.2);
+}
+
+.blue-text{
+  color: #3582C4;
+  font-size: 105%;
+}
+
+.theme-btn-on-bg{
+  background-color: #41A4F5!important;
+}
+
+.theme-btn-on-bg:hover{
+  background-color: #41A8c5!important;
+}
