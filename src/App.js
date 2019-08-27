@@ -55,7 +55,7 @@ export default class App extends Component {
                           <div className="resume-timeline-item-desc">
                             <p>In this Project, i as working as front-end developer, this is the php website and the team size was only two, one is for back-end and one is for font-end, this is the e-commerce site for sell the cloth and all the stuff, it was amazing</p>
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
-                            <p>I did Lots of css experiments and learn more in css</p>
+                            <p>I used Lots of css experiments and learn more in css</p>
                             <ul>
                               <li>I learn css and scss</li>
                               <li>I Learn to make device responsive</li>
