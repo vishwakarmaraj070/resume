@@ -21,7 +21,7 @@ export default class App extends Component {
                   <div className="secondary-info ml-md-auto mt-2">
                     <ul className="resume-social list-unstyled">
                       <li className="mb-3"><a href="http://www.linkedin.com/in/raj-vishwakarma" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-linkedin-in fa-fw"></i></span>http://linkedin.com/in/raj-vishwakarma</a></li>
-                      <li className="mb-3"><a href="https://www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-github-alt fa-fw"></i></span>www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ</a></li>
+                      <li className="mb-3"><a href="https://www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-github-alt fa-fw"></i></span>www.youtube.com/Frontend Adda</a></li>
                       <li className="mb-3"><a href="https://codepen.io/dashboard/" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-codepen fa-fw"></i></span>https://codepen.io/rajvishwakarma/</a></li>
                       <li><a href="https://rajv-portfolio.herokuapp.com/" target="_blank"><span className="fa-container text-center mr-2"><i className="fas fa-globe"></i></span>https://rajv-portfolio.herokuapp.com/</a></li>
                     </ul>
