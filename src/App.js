@@ -20,8 +20,8 @@ export default class App extends Component {
                   </div>
                   <div className="secondary-info ml-md-auto mt-2">
                     <ul className="resume-social list-unstyled">
-                      <li className="mb-3"><a href="http://www.linkedin.com/in/raj-vishwakarma" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/raj-vishwakarma</a></li>
-                      <li className="mb-3"><a href="https://github.com/vishwakarmaraj070" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-github-alt fa-fw"></i></span>https://github.com/vishwakarmaraj070</a></li>
+                      <li className="mb-3"><a href="http://www.linkedin.com/in/raj-vishwakarma" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-linkedin-in fa-fw"></i></span>http://linkedin.com/in/raj-vishwakarma</a></li>
+                      <li className="mb-3"><a href="https://www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-github-alt fa-fw"></i></span>https://www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ</a></li>
                       <li className="mb-3"><a href="https://codepen.io/dashboard/" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-codepen fa-fw"></i></span>https://codepen.io/rajvishwakarma/</a></li>
                       <li><a href="https://rajv-portfolio.herokuapp.com/" target="_blank"><span className="fa-container text-center mr-2"><i className="fas fa-globe"></i></span>https://rajv-portfolio.herokuapp.com/</a></li>
                     </ul>
@@ -307,8 +307,8 @@ export default class App extends Component {
                       <ul className="list-unstyled">
                         <li className="mb-2">
                           <div className="resume-degree font-weight-bold">MCA Distance Education</div>
-                          <div className="resume-degree-org">Sikkim Manipal Universicy</div>
-                          <div className="resume-degree-time">2018 - to</div>
+                          <div className="resume-degree-org">Sikkim Manipal University</div>
+                          <div className="resume-degree-time">2019 - to</div>
                         </li>
                         <li className="mb-2">
                           <div className="resume-degree font-weight-bold">BCA Computer Application</div>
@@ -341,7 +341,7 @@ export default class App extends Component {
                         <li className="mb-1">UI / UX Design</li>
                         <li className="mb-1">Listening Songs</li>
                         <li className="mb-1">Playing Cricket</li>
-                        <li className="mb-1">Success Developer</li>
+                        <li className="mb-1">Frontend Adda</li>
                       </ul>
                     </div>
                   </section>
