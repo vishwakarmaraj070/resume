@@ -20,10 +20,10 @@ export default class App extends Component {
                   </div>
                   <div className="secondary-info ml-md-auto mt-2">
                     <ul className="resume-social list-unstyled">
-                      <li className="mb-3"><a href="http://www.linkedin.com/in/raj-vishwakarma" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-linkedin-in fa-fw"></i></span>http://linkedin.com/in/raj-vishwakarma</a></li>
-                      <li className="mb-3"><a href="https://www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-github-alt fa-fw"></i></span>www.youtube.com/Frontend Adda</a></li>
-                      <li className="mb-3"><a href="https://codepen.io/dashboard/" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-codepen fa-fw"></i></span>https://codepen.io/rajvishwakarma/</a></li>
-                      <li><a href="https://rajv-portfolio.herokuapp.com/" target="_blank"><span className="fa-container text-center mr-2"><i className="fas fa-globe"></i></span>https://rajv-portfolio.herokuapp.com/</a></li>
+                      <li className="mb-3"><a href="http://www.linkedin.com/in/raj-vishwakarma" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-linkedin-in fa-fw"></i></span>linkedin.com/in/raj-vishwakarma</a></li>
+                      <li className="mb-3"><a href="https://www.youtube.com/channel/UCKCB6S-0cVkVPZ2h4n9W4lQ" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-github-alt fa-fw"></i></span>youtube.com/Frontend Adda</a></li>
+                      <li className="mb-3"><a href="https://codepen.io/dashboard/" target="_blank"><span className="fa-container text-center mr-2"><i className="fab fa-codepen fa-fw"></i></span>codepen.io/rajvishwakarma</a></li>
+                      <li><a href="https://rajv-portfolio.herokuapp.com/" target="_blank"><span className="fa-container text-center mr-2"><i className="fas fa-globe"></i></span>rajv-portfolio.herokuapp.com</a></li>
                     </ul>
                   </div>
 
@@ -57,8 +57,8 @@ export default class App extends Component {
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
                             <p>I used Lots of css experiments and learn more in css</p>
                             <ul>
-                              <li>I learn css and scss</li>
-                              <li>I Learn to make device responsive</li>
+                              <li>I learned a lots css and scss</li>
+                              <li>I learned to make device responsive</li>
                               <li>I used to much jquery</li>
                               <li>I loved to do</li>
                             </ul>
@@ -90,13 +90,13 @@ export default class App extends Component {
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
                             <p>This is my first MERN app for Developer Book fully useful for developer</p>
                             <ul>
-                              <li>I learn css and scss</li>
-                              <li>I Learn React lot</li>
-                              <li>I Learn React lot</li>
-                              <li>I Learn Nodejs lot</li>
-                              <li>I Learn Mongodb lot</li>
-                              <li>I Learn Express lot</li>
-                              <li>I learn Much Javascript and jquery</li>
+                              <li>I learned a lots css and scss</li>
+                              <li>I learned React lot</li>
+                              <li>I learned React lot</li>
+                              <li>I learned Nodejs lot</li>
+                              <li>I learned Mongodb lot</li>
+                              <li>I learned Express lot</li>
+                              <li>I learned Much Javascript and jquery</li>
                               <li>I love to do</li>
                             </ul>       
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
@@ -125,8 +125,8 @@ export default class App extends Component {
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
                             <p>To create and deploy full website complete </p>
                             <ul>
-                              <li>I learn css and scss</li>
-                              <li>I Learn to make device responsive</li>
+                              <li>I learned a lots css and scss</li>
+                              <li>I learned to make device responsive</li>
                               <li>I used to much jquery</li>
                               <li>I loved to do</li>
                             </ul>
@@ -157,9 +157,9 @@ export default class App extends Component {
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
                             <p>This was my first E-Commerce website that i fully create and deploy</p>
                             <ul>
-                              <li>I learn css and scss</li>
-                              <li>I Learn to make device responsive</li>
-                              <li>I learn Much Javascript and jquery</li>
+                              <li>I learned a lots css and scss</li>
+                              <li>I learned to make device responsive</li>
+                              <li>I learned Much Javascript and jquery</li>
                               <li>I loved to do</li>
                             </ul>                            
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
@@ -306,19 +306,19 @@ export default class App extends Component {
                     <div className="resume-section-content">
                       <ul className="list-unstyled">
                         <li className="mb-2">
-                          <div className="resume-degree font-weight-bold">MCA Distance Education</div>
-                          <div className="resume-degree-org">Sikkim Manipal University</div>
-                          <div className="resume-degree-time">2019 - to</div>
-                        </li>
-                        <li className="mb-2">
                           <div className="resume-degree font-weight-bold">BCA Computer Application</div>
                           <div className="resume-degree-org">Garware College of Commerce Pune</div>
                           <div className="resume-degree-time">2013 - 2016</div>
                         </li>
+                        <li className="mb-2">
+                          <div className="resume-degree font-weight-bold">Jetking</div>
+                          <div className="resume-degree-org">Hardware & Netorking</div>
+                          <div className="resume-degree-time">2009 - 2011</div>
+                        </li>
                         <li>
                           <div className="resume-degree font-weight-bold">12th</div>
                           <div className="resume-degree-org">National college of Barhalganj Gorakhpur</div>
-                          <div className="resume-degree-time">2013 - 2016</div>
+                          <div className="resume-degree-time">2007 - 2009</div>
                         </li>
                       </ul>
                     </div>
@@ -348,7 +348,7 @@ export default class App extends Component {
                   <section className="resume-section interests-section">
                     <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">See More</h2> 
                     <div className="resume-section-content">
-                     <p>Interest to see my all project go to my <a href="https://rajv-portfolio.herokuapp.com/" target="_blank">Portfolio website</a></p>
+                     <p>Interested to see my all projects go to my <a href="https://rajv-portfolio.herokuapp.com/" target="_blank">Portfolio website</a></p>
                     </div>
                   </section>
                   <a className="btn theme-btn-on-bg download-resume position-absolute font-weight-bold mx-auto" href={require('./resume.pdf')} download="Raj-Resume" target="_blank"><svg className="svg-inline--fa fa-download fa-w-16 mr-2" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="download" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor" d="M216 0h80c13.3 0 24 10.7 24 24v168h87.7c17.8 0 26.7 21.5 14.1 34.1L269.7 378.3c-7.5 7.5-19.8 7.5-27.3 0L90.1 226.1c-12.6-12.6-3.7-34.1 14.1-34.1H192V24c0-13.3 10.7-24 24-24zm296 376v112c0 13.3-10.7 24-24 24H24c-13.3 0-24-10.7-24-24V376c0-13.3 10.7-24 24-24h146.7l49 49c20.1 20.1 52.5 20.1 72.6 0l49-49H488c13.3 0 24 10.7 24 24zm-124 88c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20zm64 0c0-11-9-20-20-20s-20 9-20 20 9 20 20 20 20-9 20-20z"></path></svg>Download PDF Version</a>
