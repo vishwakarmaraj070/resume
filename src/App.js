@@ -40,7 +40,7 @@ export default class App extends Component {
               <div className="row">
                 <div className="col-lg-9">
                   <section className="resume-section experience-section">
-                    <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Work Experience</h2>
+                    <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Project Experience</h2>
                     <div className="resume-section-content">
                       <div className="resume-timeline position-relative">
                         <article className="resume-timeline-item position-relative pb-5">
