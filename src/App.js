@@ -140,6 +140,55 @@ export default class App extends Component {
                           </div>
 
                         </article>
+                              
+                              <article className="resume-timeline-item position-relative">
+
+                          <div className="resume-timeline-item-header mb-2">
+                            <div className="d-flex flex-column flex-md-row">
+                              <h3 className="resume-position-title font-weight-bold mb-1">Shakti Murgun</h3>
+                              <div className="resume-company-name ml-auto">Front end</div>
+                            </div>
+                            <div className="resume-position-time">oct-2018 - November-2018</div>
+                          </div>
+                          <div className="resume-timeline-item-desc">
+                            <p>This was my first project of my life, I developed with lots of passion</p>                      
+                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+                            <ul className="list-inline">
+                            <li className="list-inline-item"><span className="badge badge-primary badge-pill">HTML</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">CSS?SCSS</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Bootstap</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Jquery</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Javascript</span></li>
+                            </ul>
+                          </div>
+
+                        </article>
+                             
+                              <article className="resume-timeline-item position-relative pb-5">
+
+                          <div className="resume-timeline-item-header mb-2">
+                            <div className="d-flex flex-column flex-md-row">
+                              <h3 className="resume-position-title font-weight-bold mb-1">React Apps <small className="text-muted">(self)</small></h3>
+                              <div className="resume-company-name ml-auto">React Project</div>
+                            </div>
+                            <div className="resume-position-time">feb-2019 - Martch-2019 </div>
+                          </div>
+                          <div className="resume-timeline-item-desc">
+                            <p>This is my first React app create for self study, in this app have lots of small small app like colculator, short, CRUD, Chap app, Shopping List and all, it is awesome  </p>
+                        
+                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+                            <ul className="list-inline">
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">React</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Nodejs</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">MongoDB</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Express</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">HTML/CSS/SCSS</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Javascript/Jquery</span></li>
+                            </ul>
+                          </div>
+                        </article>
+
+                              
                       </div>
                     </div>
                   </section>
