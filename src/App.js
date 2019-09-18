@@ -117,7 +117,7 @@ export default class App extends Component {
 
                         </article>
 
-                        <article className="resume-timeline-item position-relative">
+                        <article className="resume-timeline-item position-relative pb-5">
 
                           <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
@@ -141,7 +141,7 @@ export default class App extends Component {
 
                         </article>
                               
-                              <article className="resume-timeline-item position-relative">
+                              <article className="resume-timeline-item position-relative pb-5">
 
                           <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
@@ -187,6 +187,31 @@ export default class App extends Component {
                             </ul>
                           </div>
                         </article>
+
+                          <article className="resume-timeline-item position-relative pb-">
+
+                          <div className="resume-timeline-item-header mb-2">
+                            <div className="d-flex flex-column flex-md-row">
+                              <h3 className="resume-position-title font-weight-bold mb-1">Traexplorer</h3>
+                              <div className="resume-company-name ml-auto">Front end</div>
+                            </div>
+                            <div className="resume-position-time">Des-2018 - Jan-2019 </div>
+                          </div>
+                          <div className="resume-timeline-item-desc">
+                            <p>This is my one of the best websites that i love to develop like that application asweome ui</p>
+                        
+                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
+                            <ul className="list-inline">
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">MDB</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Pagination js</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Bootstrap</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Green Sock js</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">HTML/CSS/SCSS</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Javascript/Jquery</span></li>
+                            </ul>
+                          </div>
+                        </article>
+        
 
                               
                       </div>
