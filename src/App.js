@@ -40,28 +40,22 @@ export default class App extends Component {
               <div className="row">
                 <div className="col-lg-9">
                   <section className="resume-section experience-section">
-                    <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Projects Experience</h2>
+                    <h2 className="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">Projects</h2>
+                     <p>These all my Major projects, which i successfully created and deployed to client server, to see my all projects 
+                       click on this link <a href="http://rajv-portfolio.herokuapp.com" target="_blank">Raj Protfolio</a> </p>
                     <div className="resume-section-content">
                       <div className="resume-timeline position-relative">
                         <article className="resume-timeline-item position-relative pb-5">
 
                           <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
-                              <h3 className="resume-position-title font-weight-bold mb-1">Front-End Developer</h3>
-                              <div className="resume-company-name ml-auto">Bemad</div>
+                              <h3 className="resume-position-title font-weight-bold mb-1">Bemad</h3>
+                              <div className="resume-company-name ml-auto">Front-End</div>
                             </div>
                             <div className="resume-position-time">Jan-2019 - Jun-2019</div>
                           </div>
                           <div className="resume-timeline-item-desc">
                             <p>In this Project, i as working as front-end developer, this is the php website and the team size was only two, one is for back-end and one is for font-end, this is the e-commerce site for sell the cloth and all the stuff, it was amazing</p>
-                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements:</h4>
-                            <p>I used Lots of css experiments and learn more in css</p>
-                            <ul>
-                              <li>I learned a lots css and scss</li>
-                              <li>I learned to make device responsive</li>
-                              <li>I used to much jquery</li>
-                              <li>I loved to do</li>
-                            </ul>
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul className="list-inline">
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">HTML</span></li>
@@ -70,35 +64,23 @@ export default class App extends Component {
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">Jquery</span></li>
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">Javascript</span></li>
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">Bootstarp</span></li>
-                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Other Framework</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">Other js/css Framework</span></li>
                             </ul>
                           </div>
-
                         </article>
 
                         <article className="resume-timeline-item position-relative pb-5">
 
                           <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
-                              <h3 className="resume-position-title font-weight-bold mb-1">React Developer <small className="text-muted">(self)</small></h3>
-                              <div className="resume-company-name ml-auto">Developer Book <small className="text-muted">(Raj)</small></div>
+                              <h3 className="resume-position-title font-weight-bold mb-1">Developer Book <small className="text-muted">(self)</small></h3>
+                              <div className="resume-company-name ml-auto">React Project</div>
                             </div>
                             <div className="resume-position-time">Jun-2019 - August-2019 </div>
                           </div>
                           <div className="resume-timeline-item-desc">
                             <p>This is my first MERN app create for developer how want to create our book and i future to use and share to others, i this i am using Node, Mongodb, Express, React, and all the required framework of css and js this is awesome for me to create and help the developer </p>
-                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
-                            <p>This is my first MERN app for Developer Book fully useful for developer</p>
-                            <ul>
-                              <li>I learned a lots css and scss</li>
-                              <li>I learned React lot</li>
-                              <li>I learned React lot</li>
-                              <li>I learned Nodejs lot</li>
-                              <li>I learned Mongodb lot</li>
-                              <li>I learned Express lot</li>
-                              <li>I learned Much Javascript and jquery</li>
-                              <li>I love to do</li>
-                            </ul>       
+                        
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul className="list-inline">
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">React</span></li>
@@ -115,25 +97,17 @@ export default class App extends Component {
 
                           <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
-                              <h3 className="resume-position-title font-weight-bold mb-1">Full Websites Design</h3>
-                              <div className="resume-company-name ml-auto">Crizel ARCI</div>
+                              <h3 className="resume-position-title font-weight-bold mb-1">Crizel ARCI </h3>
+                              <div className="resume-company-name ml-auto">Full Stack</div>
                             </div>
                             <div className="resume-position-time">Feb-2019 - Feb-2019</div>
                           </div>
                           <div className="resume-timeline-item-desc">
-                            <p>I was the only developer for this website only front-end work id done in this. While doing amazing experience </p>
-                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
-                            <p>To create and deploy full website complete </p>
-                            <ul>
-                              <li>I learned a lots css and scss</li>
-                              <li>I learned to make device responsive</li>
-                              <li>I used to much jquery</li>
-                              <li>I loved to do</li>
-                            </ul>
+                            <p>I was my first full-stack project which i successfully created and deployed</p>
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul className="list-inline">
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">HTML</span></li>
-                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">CSS?SCSS</span></li>
+                              <li className="list-inline-item"><span className="badge badge-primary badge-pill">CSS/SCSS</span></li>
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">Bootstap</span></li>
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">MDB</span></li>
                               <li className="list-inline-item"><span className="badge badge-primary badge-pill">Jquery</span></li>
@@ -147,21 +121,13 @@ export default class App extends Component {
 
                           <div className="resume-timeline-item-header mb-2">
                             <div className="d-flex flex-column flex-md-row">
-                              <h3 className="resume-position-title font-weight-bold mb-1">Full Stack Developer</h3>
-                              <div className="resume-company-name ml-auto">Bigshelfimaging</div>
+                              <h3 className="resume-position-title font-weight-bold mb-1">Bigshelfimaging</h3>
+                              <div className="resume-company-name ml-auto">Full Stack</div>
                             </div>
                             <div className="resume-position-time">March-2019 - April-2019</div>
                           </div>
                           <div className="resume-timeline-item-desc">
-                            <p>this was the amazing websites like e-commerce, selling printer tonner, i was the only developer for whole stufff, it was awsome for to learn more javascript and jquery</p>
-                            <h4 className="resume-timeline-item-desc-heading font-weight-bold">Achievements</h4>
-                            <p>This was my first E-Commerce website that i fully create and deploy</p>
-                            <ul>
-                              <li>I learned a lots css and scss</li>
-                              <li>I learned to make device responsive</li>
-                              <li>I learned Much Javascript and jquery</li>
-                              <li>I loved to do</li>
-                            </ul>                            
+                            <p>this was the amazing websites like e-commerce, selling printer tonner, this website is created only on javascript and html, it was awsome for to learn more javascript and jquery</p>                      
                             <h4 className="resume-timeline-item-desc-heading font-weight-bold">Technologies used:</h4>
                             <ul className="list-inline">
                             <li className="list-inline-item"><span className="badge badge-primary badge-pill">HTML</span></li>
